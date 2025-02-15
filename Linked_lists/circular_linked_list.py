@@ -1,4 +1,4 @@
-# here we are going to implement the double linked list from scratch
+# here we are going to implement circular double linked list from scratch
 
 
 # creating the node to build double linked list
